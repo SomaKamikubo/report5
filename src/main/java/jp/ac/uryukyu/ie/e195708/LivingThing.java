@@ -1,4 +1,13 @@
 package jp.ac.uryukyu.ie.e195708;
+/**
+ * ダメージを計算するクラス
+ * String name; //名前
+ * int hitPoint; //体力
+ * int attack; //攻撃
+ * boolean dead; //生死確認
+ * Created by e195708 on 2019/12/22.
+ */
+
 
 public class LivingThing {
     private String name;
